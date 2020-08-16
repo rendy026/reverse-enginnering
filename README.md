@@ -9,5 +9,8 @@ If You Want to Upload My Files Please permission in advanceIf not then you are n
 All My Files Upload yourself without someone's help
 If you want to learn please learn but don't need to  steal it
 let alone upload it and change credits without permission!!!
+
+please make an issue if you are curious about some files that i haven't uploaded yet
 ```
 ----------
+
