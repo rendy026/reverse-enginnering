@@ -14,3 +14,4 @@ please make an issue if you are curious about some files that i haven't uploaded
 ```
 ----------
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Datez-Kun&show_icons=true&theme=tokyonight alt=Datez-Kun /> </p>
