@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/ts8PhYK/20200503-163428-picsay.jpg" alt="20200503-163428-picsay"></p>
 
-![](https://img.shields.io/badge/PHP-7.4.2-blue) ![](https://img.shields.io/badge/python-3.8.0-green) ![](https://img.shields.io/badge/python-2.7.17-orange) ![](https://img.shields.io/badge/bash-shell-brightgreen)
+![](https://img.shields.io/badge/PHP-7.4.2-blue) ![](https://img.shields.io/badge/python-3.8.0-green) ![](https://img.shields.io/badge/python-2.7.17-orange) ![](https://img.shields.io/badge/bash-shell-brightgreen) ![](https://img.shields.io/badge/python-3.8.2-yellowgreen) ![](https://img.shields.io/badge/python-2.7.18-red)
 
 ----------
 ```
